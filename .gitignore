@@ -1,0 +1,14 @@
+# Generated DOS executable
+breakout.com
+
+# NASM listing output
+breakout.lst
+
+# Temporary files
+*.tmp
+*.bak
+
+# Editor and operating-system files
+.vscode/
+.DS_Store
+Thumbs.db
