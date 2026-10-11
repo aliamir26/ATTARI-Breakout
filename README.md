@@ -3,8 +3,11 @@
 ### A Classic Breakout-Style Game in 16-bit x86 Assembly
 
 ![Language](https://img.shields.io/badge/Language-NASM%20Assembly-blue)
+
 ![Architecture](https://img.shields.io/badge/Architecture-x86%2016--bit-orange)
+
 ![Platform](https://img.shields.io/badge/Platform-DOS-lightgrey)
+
 ![Project](https://img.shields.io/badge/Type-COAL%20Lab%20Project-green)
 
 **ATTARI Breakout** is a classic brick-breaking arcade game developed in NASM x86 Assembly as a Computer Organization and Assembly Language (COAL) lab project.
@@ -13,7 +16,7 @@ The game runs in DOS text mode and uses BIOS and DOS interrupts to handle keyboa
 
 The project demonstrates fundamental assembly-language concepts through an interactive game, including register operations, memory variables, conditional branching, loops, procedures, hardware interaction, and game-state management.
 
-![Welcome Screen](screenshots/01_welcome_screen.png)
+![Welcome Screen](screenshots/welcome-screen.png)
 
 ---
 
